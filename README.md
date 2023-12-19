@@ -1,4 +1,4 @@
-#To run in this we need install in vs-code terminal
+#To run - we need install in vs-code terminal
 
 
  npm i @snowpack/plugin-typescript
